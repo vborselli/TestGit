@@ -10,7 +10,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            // ciao Dmytriy
+            // ciao Vania
             Console.WriteLine("ciao");
             Console.ReadKey();
         }
