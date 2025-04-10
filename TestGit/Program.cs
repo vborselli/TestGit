@@ -11,7 +11,6 @@ namespace TestGit
         static void Main(string[] args)
         {
             // ciao Dmytriy
-
             Console.WriteLine("ciao");
             Console.ReadKey();
         }
